@@ -1,1 +1,1 @@
-# Home-Assistant
+# Configuration Home Assistant
